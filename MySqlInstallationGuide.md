@@ -57,12 +57,13 @@ mysql -u root -p
 or
 
 mysql -u root -h hostname||ip -p
-
-```mysql
+```
 
 Verify the MySql version
+```mysql
 
 mysql --version
+
 ```
 ```mysql
 start or stop mysql
