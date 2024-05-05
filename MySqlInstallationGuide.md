@@ -66,6 +66,8 @@ mysql --version
 
 ```
 ```mysql
+
+```mysql
 start or stop mysql
 
 sudo systemctl start mysqld
