@@ -63,9 +63,10 @@ mysql -u root -h hostname||ip -p
 Verify the MySql version
 
 mysql --version
-
+```
 ```mysql
 start or stop mysql
 
 sudo systemctl start mysqld
 sudo systemctl enable mysqld 
+```
