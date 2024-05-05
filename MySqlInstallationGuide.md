@@ -65,11 +65,12 @@ Verify the MySql version
 mysql --version
 
 ```
-```mysql
 
-```mysql
 start or stop mysql
+```mysql
 
 sudo systemctl start mysqld
-sudo systemctl enable mysqld 
+sudo systemctl enable mysqld
+sudo systemctl stop mysqld 
+ 
 ```
