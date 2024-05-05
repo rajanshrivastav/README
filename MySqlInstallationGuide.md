@@ -53,6 +53,19 @@ Now, we're good to start with MySql.
 
 ```mysql
 mysql -u root -p
+
 or
 
 mysql -u root -h hostname||ip -p
+
+```mysql
+
+Verify the MySql version
+
+mysql --version
+
+```mysql
+start or stop mysql
+
+sudo systemctl start mysqld
+sudo systemctl enable mysqld 
